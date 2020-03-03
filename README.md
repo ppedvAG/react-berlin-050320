@@ -4,7 +4,7 @@ Ein Kurs von PPEDV AG :rocket:
 
 [Notizen Marc](./marc/m-notes.md)
 
-[Notizen Vadzim](../vadzim/v-notes.md)
+[Notizen Vadzim](./vadzim/v-notes.md)
 
 ## M00 | WARMING UP
 

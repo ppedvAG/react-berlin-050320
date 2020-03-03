@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# ppedv course files
+*ablauf.txt
+ablauf*.txt
+*ABLAUF.txt
+ABLAUF*.txt
+Ablauf*.txt
+Ablauf*.md
+
 # User-specific files
 *.rsuser
 *.suo
