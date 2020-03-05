@@ -22,6 +22,7 @@
 | `shift alt a` | comment / uncomment |
 | `ctrl #` | comment / uncomment |
 | `shift alt up/down` | duplicate line / selection |
+| `ctrl c ctrl v` | duplicate line |
 | `shift alt f` | format |
 | `f12` | go to definition |
 | `ctrl +` | zoom in |
