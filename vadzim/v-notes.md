@@ -1,8 +1,6 @@
 # VADZIMS NOTIZEN
 
-## M00
-
-### GIT COMMANDS
+## GIT COMMANDS
 
 | command | effect |
 | --- | --- |
@@ -14,7 +12,7 @@
 
 [git homepage](https://git-scm.com)
 
-### VSCODE SHORTCUTS
+## VSCODE SHORTCUTS
 
 | shortcut | effect |
 | --- | --- |
@@ -27,3 +25,11 @@
 | `f12` | go to definition |
 | `ctrl +` | zoom in |
 | `ctrl -` | zoom out |
+
+## VSCODE TS SNIPPETS
+
+| snippet | effect |
+| --- | --- |
+| `ctor` | constructor |
+| `class` | class |
+

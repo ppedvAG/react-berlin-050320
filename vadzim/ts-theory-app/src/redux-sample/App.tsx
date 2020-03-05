@@ -7,7 +7,7 @@ export default function App() {
     // const myTransportmittel = new Transportmittel(0, 50, 0, 'fahrrad', 2014);
     return (
         <div>
-            <AddFahrzeug />
+            
             <Fahrzeuge />
         </div>
     )

@@ -9,8 +9,8 @@ function AddFahrzeug(props: { dispatch: (arg0: { type: string; maxGeschw: number
 
     return(
         <form>
-            <input type="number" placeholder="maxGeschw" name="maxGeschwInp" id="" ref={node => maxGeschwBinding = node ? node : new HTMLInputElement() } />
-            <input type="number" placeholder="baujahr" name="bauJahrInp" id="" ref={node => bauJahrBinding = node ? node : new HTMLInputElement()}/>
+            <input type="number" placeholder="maximale Geschwindigkeit" name="maxGeschwInp" id="" ref={node => maxGeschwBinding = node ? node : new HTMLInputElement() } />
+            <input type="number" placeholder="Baujahr" name="bauJahrInp" id="" ref={node => bauJahrBinding = node ? node : new HTMLInputElement()}/>
             <select name="bezeichnungSel" ref={node => bezeichnungSelBinding = node ? node : new HTMLSelectElement()}>
                 <option value="Auto">Auto</option>
                 <option value="Fahrrad">Fahrrad</option>

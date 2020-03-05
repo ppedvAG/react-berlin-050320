@@ -4,8 +4,7 @@ import IRollable from './IRollable'
 export class Fahrrad extends Transportmittel implements IRollable {
     /**
      *
-     */
-    
+     */    
     constructor(
         public id: number,
         public maxGeschw: number, 
@@ -14,8 +13,7 @@ export class Fahrrad extends Transportmittel implements IRollable {
         public baujahr: number, 
         public pedal: string, 
         public anzRäder: number) {
-        super(id, maxGeschw, aktGeschw, bezeichnung, baujahr);
-        this.anzRäder = anzRäder;
-        
+        super(id, maxGeschw, aktGeschw, bezeichnung, baujahr)
+        this.anzRäder = anzRäder
     }
 }

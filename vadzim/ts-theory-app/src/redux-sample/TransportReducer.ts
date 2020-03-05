@@ -17,4 +17,4 @@ const transportReducer = (fahrzeuge = new Array<Transportmittel>(), action: any)
 }
 
 export default transportReducer
-// vor const lässt es sich nicht schreiben 
+// vor const lässt es sich nicht schreiben !!!

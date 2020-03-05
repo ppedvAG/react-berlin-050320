@@ -1,4 +1,4 @@
 export default interface IRollable {
-    // keine public-Member
-    anzRäder: number
+    // keine public-Member !!!
+    anzRäder: number    
 }

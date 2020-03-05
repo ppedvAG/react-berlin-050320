@@ -14,8 +14,7 @@ export default class Auto extends Transportmittel implements IRollable {
         public treibstoff: string,
         public anzahltüren: number,
         public anzRäder: number) {
-        super(id, maxGeschw, aktGeschw, bezeichnung, baujahr);
-        this.anzRäder = anzRäder;
-
+        super(id, maxGeschw, aktGeschw, bezeichnung, baujahr)
+        this.anzRäder = anzRäder
     }
 }

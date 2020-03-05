@@ -1,10 +1,13 @@
 import React from 'react'
 import { connect } from 'react-redux'
 import Transportmittel from './Models/Transportmittel'
+import AddFahrzeug from './AddFahrzeug'
 
 function Fahrzeuge(props: any) {
 
     return (
+        <>
+        <AddFahrzeug />
         <table>
             <caption>Fahrzeuge</caption>
             <thead>
@@ -35,6 +38,7 @@ function Fahrzeuge(props: any) {
                 </tr>
             </tfoot>
         </table>
+        </>
     )
 }
 
