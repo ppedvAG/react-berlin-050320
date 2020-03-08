@@ -25,6 +25,7 @@
 | `f12` | go to definition |
 | `ctrl +` | zoom in |
 | `ctrl -` | zoom out |
+| `alt up/down` | move line |
 
 ## VSCODE TS SNIPPETS
 
@@ -32,4 +33,7 @@
 | --- | --- |
 | `ctor` | constructor |
 | `class` | class |
+| `clo` | console.log() |
+| `throw` | throw expression |
+| `trycatch` | try catch statement |
 

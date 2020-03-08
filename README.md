@@ -8,60 +8,60 @@ Ein Kurs von PPEDV AG :rocket:
 
 ## M00 | WARMING UP
 
-- [ ] greeter
-- [ ] vs code
-- [ ] git & github
+- [x] greeter
+- [x] vs code
+- [x] git & github
 
 ## M10 | GETTING STARTED
 
-- [ ] react intro
-- [ ] react ecosystem
-- [ ] nodejs
-- [ ] npmjs & npx
+- [x] react intro
+- [x] react ecosystem
+- [x] nodejs
+- [x] npmjs & npx
 
 ## M20 | JSX INTRO
 
-- [ ] jsx intro
-- [ ] emmet?
+- [x] jsx/tsx intro
+- [x] emmet
 
 ## M30 | REACT ELEMENTS
 
-- [ ] elements
+- [x] elements
 
 ## M40 | FUNCTION COMPONENTS AND PROPS
 
-- [ ] components
-- [ ] props
-- [ ] props.children?
-- [ ] components as props?
+- [x] components
+- [x] props
+- [x] props.children
+- [x] components as props
 
 ## M50 | JSX CONTINUED
 
-- [ ] attributes
-- [ ] conditionals
-- [ ] iterating elements
+- [x] attributes
+- [x] conditionals
+- [x] iterating elements
 
 ## M60 | COMPONENTS AND STATE
 
-- [ ] class components
-- [ ] constructor
-- [ ] state
-- [ ] use state hook
-- [ ] components in state?
+- [x] class components
+- [x] constructor
+- [x] state
+- [x] use state hook
+- [x] components in state
 
 ## M70 | REACT & FORMS
 
-- [ ] forms
+- [x] forms
 
 ## M80 | COMPONENTS LIFECYCLE
 
-- [ ] lifecycle methods
-- [ ] use effect hook
+- [x] lifecycle methods
+- [x] use effect hook
 
 ## M90 | COMPONENTS COMMUNICATION
 
-- [ ] lifting state up
-- [ ] specialization
+- [x] lifting state up
+- [x] specialization
 
 ## M100 | SSR
 
@@ -70,5 +70,5 @@ Ein Kurs von PPEDV AG :rocket:
 
 ## M110 | REDUX
 
-- [ ] redux
-- [ ] react-redux
+- [x] redux
+- [x] react-redux

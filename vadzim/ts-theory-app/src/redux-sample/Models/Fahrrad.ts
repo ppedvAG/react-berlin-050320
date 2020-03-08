@@ -12,7 +12,8 @@ export class Fahrrad extends Transportmittel implements IRollable {
         public bezeichnung: string, 
         public baujahr: number, 
         public pedal: string, 
-        public anzRäder: number) {
+        public anzRäder: number
+        ) {
         super(id, maxGeschw, aktGeschw, bezeichnung, baujahr)
         this.anzRäder = anzRäder
     }
