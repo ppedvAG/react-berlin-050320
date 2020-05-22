@@ -72,3 +72,6 @@ Ein Kurs von PPEDV AG :rocket:
 
 - [x] redux
 - [x] react-redux
+
+https://www.ppedv.de/schulung/kurse/ReactJsReduxJavaScriptJSXGrundlagenSeminarTrainingWorkshop.aspx
+React redux PPEDV AG Kurs Schulung weiterbildung Training
